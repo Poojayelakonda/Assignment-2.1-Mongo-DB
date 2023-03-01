@@ -1,0 +1,49 @@
+{
+  "batsmen": [
+    {
+      "player name": "Virat Kohli",
+      "batting order": "One Down",
+      "runs scored": 282,
+      "batting average": 40.28,
+      "matches": 4,
+      "highest score": 123,
+      "centuries scored": 1
+    },
+    {
+      "player name": "CA Pujara",
+      "batting order": "Two Down",
+      "runs scored": 521,
+      "batting average": 74.42,
+      "matches": 4,
+      "highest score": 193,
+      "centuries scored": 3
+    },
+    {
+      "player name": "MA Agarwal",
+      "batting order": "Three Down",
+      "runs scored": 195,
+      "batting average": 65,
+      "matches": 2,
+      "highest score": 77,
+      "centuries scored": 0
+    },
+    {
+      "player name": "RG Sharma",
+      "batting order": "Opening Batsmen",
+      "runs scored": 106,
+      "batting average": 63,
+      "matches": 2,
+      "highest score": 63,
+      "centuries scored": 0
+    },
+    {
+      "player name": "RR Pant",
+      "batting order": "Fifth Down",
+      "runs scored": 350,
+      "batting average": 58.33,
+      "matches": 4,
+      "highest score": 159,
+      "centuries scored": 1
+    }
+  ]
+}
